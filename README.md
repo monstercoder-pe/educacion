@@ -1,2 +1,2 @@
 # educacion
-Repositorio con el codigo de ejemplo del canal Monster Coder
+Repositorio con el código de ejemplo del canal Monster Coder
